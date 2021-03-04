@@ -5,9 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![alt text](https://github.com/AlexandraLuiza/Calculator-React/blob/master/screenshots/calculator%201.jpg?raw=true)
 
-![alt text](https://github.com/AlexandraLuiza/Calculator-React/blob/master/screenshots/calculator2.jpg.jpg?raw=true)
+![alt text](https://github.com/AlexandraLuiza/Calculator-React/blob/master/screenshots/calculator2.jpg?raw=true)
 
-![alt text](https://github.com/AlexandraLuiza/Calculator-React/blob/master/screenshots/calculator%203.jpg.jpg?raw=true)
+![alt text](https://github.com/AlexandraLuiza/Calculator-React/blob/master/screenshots/calculator%203.jpg?raw=true)
 
 ## Available Scripts
 
